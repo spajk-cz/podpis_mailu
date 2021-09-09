@@ -1,1 +1,1 @@
-# podpis_mailu
+Toto je záloha mého HTML podpisu do Outlloku, neboť ten tak prasí HTML, že jsem musel takové triviality jako CTA buttony udělat formou obrázků. Pokud se Vám líbí, feel free to upravit a použít u sebe. :)
